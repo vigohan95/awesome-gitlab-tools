@@ -22,6 +22,7 @@ A curated list of open-source tools built specifically for GitLab.
 ## CI/CD
 
 - [gitlab-auto-merge-request](https://gitlab.com/tmaier/gitlab-auto-merge-request) - Automatically open a GitLab merge request from CI when none exists for a feature branch.
+- [gitlab-autopilot](https://github.com/vigohan95/gitlab-autopilot) - Gate merge requests on a written policy file, auto-merge when it holds, and roll back to the last release with a GitLab Incident when a scheduled health check fails.
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Run GitLab CI jobs locally.
 - [glsec](https://gitlab.com/glsec-io/glsec) - Lint GitLab CI configuration for security issues.
 - [PipeIntel](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/pipeintel) - Scan GitLab CI pipelines for security and correctness issues with OPA policies and ShellCheck.
